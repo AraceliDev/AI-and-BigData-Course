@@ -16,12 +16,12 @@ Este repositorio contiene los proyectos, ejercicios y trabajos desarrollados dur
 
 El programa está dividido en **6 módulos principales**:
 
-1. **Módulo 1**: Fundamentos de la Inteligencia Artificial
-2. **Módulo 2**: Análisis de datos masivos (Big Data)
-3. **Módulo 3**: Machine Learning y Deep Learning
-4. **Módulo 4**: Procesamiento de lenguaje natural
-5. **Módulo 5**: Visión por computador
-6. **Módulo 6**: Proyecto integrador
+1. **Módulo 1**: Models d'Intel·ligència Artificial
+2. **Módulo 2**: Sistemes d'aprenentatge automàtic
+3. **Módulo 3**: Programació d'Intel·ligència Artificial
+4. **Módulo 4**: Sistemes de Big data
+5. **Módulo 5**: Big data aplicat
+6. **Módulo 6**: Projecte d’intel·ligència artificial i Big data
 
 ## Perfil profesional
 
