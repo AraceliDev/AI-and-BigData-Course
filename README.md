@@ -29,7 +29,7 @@ Este repositorio contiene los proyectos, ejercicios y trabajos desarrollados dur
 
 </td>
 <td>
-  <img src="https://img.shields.io/badge/Duración-2024-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Duración-2025-green?style=for-the-badge"/>
   <br>
   <img src="https://img.shields.io/badge/Estado-En%20Curso-orange?style=for-the-badge"/>
 </td>
